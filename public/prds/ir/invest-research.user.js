@@ -19,6 +19,6 @@
   console.log("Starting 👌👌👌👌👌 invest-research. chrome://flags/Block insecure private network requests")
   if (location.href === 'http://localhost:8080/') return
   var script = document.createElement('script')
-  script.src = 'https://cdn.jsdelivr.net/gh/AwesomeDog/happy-release@ir0.0.1/dist/app.bundle.min.js'
+  script.src = 'https://github.com/AwesomeDog/happy-release/releases/download/ir0.0.1/app.bundle.js'
   document.body.appendChild(script)
 })()
