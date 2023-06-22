@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         invest-research
 // @namespace    http://tampermonkey.net/
-// @version      0.0.3
+// @version      0.0.4
 // @description  try to take over the world!
 // @author
 // @match             *://*.10jqka.com.cn/*
